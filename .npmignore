@@ -1,0 +1,7 @@
+/lib
+/test
+/doc
+tsconfig.json
+.eslintrc.json
+/node_modules
+/.idea
